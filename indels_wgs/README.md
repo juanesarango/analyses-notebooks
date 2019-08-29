@@ -1,5 +1,5 @@
 ## Indel Signatures 
-Using [SigProfilerMatrixGenerator](https: //github.com/AlexandrovLab/SigProfilerMatrixGenerator) package.
+Using [SigProfilerMatrixGenerator](https://github.com/AlexandrovLab/SigProfilerMatrixGenerator) package.
 
 ### Installation
 
