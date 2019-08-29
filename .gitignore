@@ -1,3 +1,15 @@
+# Any NGS Sequencing file
+*.vcf.gz
+*.vcf
+*.bam
+*.fastq.gz
+*.fatsq
+*.fq.gz
+*.fq
+
+# Analyses outdir results
+indels_wgs/P*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
